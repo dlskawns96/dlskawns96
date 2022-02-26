@@ -7,4 +7,4 @@
 ### Email
 > dlskawns96@gmail.com
 
-### Currently working as an intern at [Dealicious](https://www.dealicious.kr) / [NamJun-deali](https://github.com/namjun-deali)
+### Currently working as iOS Developer at [Dealicious](https://www.dealicious.kr) / [NamJun-deali](https://github.com/namjun-deali)
