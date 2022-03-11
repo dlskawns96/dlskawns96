@@ -1,5 +1,4 @@
 ## 이남준 Nam Jun Lee
-### iOS Developer
 
 ### Blog
 > https://velog.io/@dlskawns96
